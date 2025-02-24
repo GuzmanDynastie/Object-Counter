@@ -1,0 +1,5 @@
+path: /home/gzm-frenzy/Documents/Projects/Object-Counter/dataset
+train: images/train
+val: images/val
+nc: 1
+names: ["mesa"]

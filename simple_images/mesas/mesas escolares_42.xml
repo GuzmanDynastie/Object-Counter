@@ -1,0 +1,38 @@
+<annotation>
+	<folder>mesas escolares</folder>
+	<filename>mesas escolares_42.jpg</filename>
+	<path>/home/gzm-frenzy/Documents/Projects/Object-Counter/simple_images/mesas escolares/mesas escolares_42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>m01</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>644</xmin>
+			<ymin>321</ymin>
+			<xmax>933</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>m01</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>294</ymin>
+			<xmax>488</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>
